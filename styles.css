@@ -96,4 +96,9 @@ footer {
   .footer{
     font-size: 15px;
   }
+  .container {
+  width: 10;
+  margin: 0;
+  text-align: center;
+}
 }
